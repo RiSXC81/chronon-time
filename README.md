@@ -10,7 +10,8 @@ Discrete-entropy “Chronon” model: time = count of kB ln 2 entanglement # Chr
 This repository hosts the working paper, reference notes, and code snippets
 for exploring the Chronon-Time framework:
 
-* **`CHRONON_TIME.md`** – v2.0 draft of the paper (abstract, formal core, tests).  
+* **`CHRONON_TIME.md`** – v2.0 draft of the paper (abstract, formal core, tests).
+* **▶ Read the 3-page [White Paper explainer](WHITEPAPER.md)**
 * **`notebooks/`** – Jupyter notebooks for Allan-deviation and GRB constraints.  
 * **`docs/`** – slides/diagrams and a living bibliography (BibTeX).  
 
